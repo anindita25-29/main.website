@@ -108,8 +108,17 @@ Design for Good represents Vitera's commitment to empowering students to become 
     bannerPath: "/images/Events_Pics/Operation Black Market/poster.jpg", // replace with an actual placeholder image in public/images
     keyWords: ["Syndicates"],
     date: "September 3, 2026",
-    imagesStrip1: ["/images/Events_Pics/Operation Black Market/poster.jpg"],
-    imagesStrip2: [],
+    imagesStrip1: [
+      "/images/Events_Pics/Operation Black Market/poster.jpg",
+      "/images/Events_Pics/Operation Black Market/b1.jpg",
+      "/images/Events_Pics/Operation Black Market/b2.jpg",
+      "/images/Events_Pics/Operation Black Market/b3.png",
+    ],
+    imagesStrip2: [
+      "/images/Events_Pics/Operation Black Market/b4.jpg",
+      "/images/Events_Pics/Operation Black Market/b5.jpg",
+      "/images/Events_Pics/Operation Black Market/b6.jpg",
+    ],
     featured: true,
     registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSc10RLN4TGmHxvfU-tqKMEzjYfWQpq4H1Mw3qyVNnzCVV-YXA/viewform",
     isOngoing: false
