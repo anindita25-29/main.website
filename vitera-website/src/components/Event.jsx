@@ -55,8 +55,17 @@ const EventsSection = () => {
       bannerPath: "/images/Events_Pics/The-House-of-Royals/poster.jpeg",
       keyWords: ["FashionShow", "DJ-Party"],
       date: "February 27, 2026",
-      imagesStrip1: [],
-      imagesStrip2: [],
+      imagesStrip1: [
+        "/images/Events_Pics/The-House-of-Royals/poster.jpeg",
+        "/images/Events_Pics/The-House-of-Royals/v1.jpeg",
+        "/images/Events_Pics/The-House-of-Royals/v2.jpeg",
+        "/images/Events_Pics/The-House-of-Royals/v3.jpeg",
+      ],
+      imagesStrip2: [
+        "/images/Events_Pics/The-House-of-Royals/v4.jpeg",
+        "/images/Events_Pics/The-House-of-Royals/v5.jpeg",  
+        "/images/Events_Pics/The-House-of-Royals/v6.jpeg",
+      ],
       featured: true,
       registrationLink: "https://forms.gle/5RuRtvWPANtHfcQj9", // Add actual link
       isOngoing: false
@@ -139,8 +148,17 @@ TRAILBLAZERS QUESTS proved that social awareness can be engaging, playful, and t
       bannerPath: "/images/Events_Pics/Operation Black Market/poster.jpg",
       keyWords: ["Syndicates"],
       date: "September 3, 2026",
-      imagesStrip1: ["/images/Events_Pics/Operation Black Market/poster.jpg"],
-      imagesStrip2: [],
+      imagesStrip1: [
+        "/images/Events_Pics/Operation Black Market/poster.jpg",
+        "/images/Events_Pics/Operation Black Market/b1.jpg",
+        "/images/Events_Pics/Operation Black Market/b2.jpg",
+        "/images/Events_Pics/Operation Black Market/b3.png",
+      ],
+      imagesStrip2: [
+        "/images/Events_Pics/Operation Black Market/b4.jpg",
+        "/images/Events_Pics/Operation Black Market/b5.jpg",
+        "/images/Events_Pics/Operation Black Market/b6.jpg",
+      ],
       featured: true,
       registrationLink: "https://docs.google.com/forms/d/e/1FAIpQLSc10RLN4TGmHxvfU-tqKMEzjYfWQpq4H1Mw3qyVNnzCVV-YXA/viewform", // Add actual link
       isOngoing: false
