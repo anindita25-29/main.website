@@ -24,8 +24,8 @@ const GallerySection = () => {
     { src: '/images/Events_Pics/The-House-of-Royals/v17.jpeg', size: 'small' },
     { src: '/images/Events_Pics/The-House-of-Royals/v12.jpg', size: 'small' },
     { src: '/images/gallery/12.jpeg', size: 'wide' },
-
-
+    { src: '/images/Events_Pics/Operation Black Market/team.jpg', size: 'large' },
+    { src: '/images/Events_Pics/Operation Black Market/president.jpg', size: 'small' },    
     // Add more images as needed
   ];
 
